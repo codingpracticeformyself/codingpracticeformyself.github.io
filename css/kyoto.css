@@ -1,0 +1,11 @@
+.bg-image{
+	background: url("../img/kyoto.jpg")
+	no-repeat center center fixed;
+	background-size: cover;
+}
+h1 {
+	-webkit-text-stroke:.6px black;
+	font-family: arial;
+	color: white;
+	font-size: 100px;
+}
